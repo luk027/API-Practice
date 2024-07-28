@@ -1,0 +1,13 @@
+Design REST API(Json)
+Data(MOCK_DATA.json) download from: https://www.mockaroo.com/
+
+1- GET/api/users - lsit all users
+
+2- GET/api/users/1 - get user with id 1  -using dynamic path parameters(GET/api/users/:id)
+   GET/api/users/2 - get user with id 2  -using dynamic path parameters(GET/api/users/:id)
+
+3- POST/api/users - create new user
+
+4- PATCH/api/users/1 - edit the user with ID 1
+
+5- DELETE/api/users/1 - delete the user with ID 1

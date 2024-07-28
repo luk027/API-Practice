@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "first_name": "Virat",
+    "last_name": "Kohli",
+    "gender": "Male",
+    "email": "vk.18@gmail.com"
+  },
+  {
+    "id": 2,
+    "first_name": "Patt",
+    "last_name": "Cummins",
+    "gender": "Male",
+    "email": "pat.32@gmail.com"
+  },
+  {
+    "id": 3,
+    "first_name": "Rohit",
+    "last_name": "Sharma",
+    "gender": "Male",
+    "email": "rohit.45@gmail.com"
+  },
+  {
+    "id": 4,
+    "first_name": "Laurent",
+    "last_name": "Busst",
+    "gender": "Male",
+    "email": "lbusst3@guardian.co.uk"
+  },
+  {
+    "id": 5,
+    "first_name": "Alejandro",
+    "last_name": "Long",
+    "gender": "Male",
+    "email": "along4@google.nl"
+  },
+  {
+    "id": 6,
+    "first_name": "Shelley",
+    "last_name": "Brockherst",
+    "gender": "Female",
+    "email": "sbrockherst5@mayoclinic.com"
+  },
+  {
+    "id": 7,
+    "first_name": "Joshuah",
+    "last_name": "Lettley",
+    "gender": "Male",
+    "email": "jlettley6@phoca.cz"
+  },
+  {
+    "id": 8,
+    "first_name": "Charlie",
+    "last_name": "Brobak",
+    "gender": "Male",
+    "email": "cbrobak7@noaa.gov"
+  },
+  {
+    "id": 9,
+    "first_name": "Dilly",
+    "last_name": "Troillet",
+    "gender": "Male",
+    "email": "dtroillet8@amazon.co.jp"
+  },
+  {
+    "id": 10,
+    "first_name": "Dare",
+    "last_name": "Figurski",
+    "gender": "Male",
+    "email": "dfigurski9@technorati.com"
+  },
+  {
+    "id": 11,
+    "first_name": "Minta",
+    "last_name": "Quilleash",
+    "gender": "Female",
+    "email": "mquilleasha@businessweek.com"
+  },
+  {
+    "id": 12,
+    "first_name": "Frankie",
+    "last_name": "Halpen",
+    "gender": "Male",
+    "email": "fhalpenb@smh.com.au"
+  },
+  {
+    "id": 13,
+    "first_name": "Aili",
+    "last_name": "Abbe",
+    "gender": "Female",
+    "email": "aabbec@upenn.edu"
+  },
+  {
+    "id": 14,
+    "first_name": "Cyndia",
+    "last_name": "Rosentholer",
+    "gender": "Female",
+    "email": "crosentholerd@oaic.gov.au"
+  },
+  {
+    "id": 15,
+    "first_name": "Colline",
+    "last_name": "Moulster",
+    "gender": "Female",
+    "email": "cmoulstere@nymag.com"
+  },
+  {
+    "id": 16,
+    "first_name": "Goku ",
+    "last_name": "siyan",
+    "gender": "Male",
+    "email": "songoku.gmail.com"
+  },
+  {
+    "id": 17,
+    "first_name": "luk ",
+    "last_name": "dev",
+    "gender": "Male",
+    "email": "luku.dev.gmail.com"
+  }
+]
